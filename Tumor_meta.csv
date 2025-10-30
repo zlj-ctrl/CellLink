@@ -1,0 +1,429 @@
+,Index,Patient,Class,Sample,Cell_type,Cell_subtype,labels
+0,KUL28-T_AAGGAGCGTGAGTATA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+1,KUL28-T_ACATGGTAGCAGATCG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+2,KUL28-T_ACGATACGTCTCTCGT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+3,KUL28-T_ACGTCAAGTGTTGAGG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+4,KUL28-T_AGCCTAAAGAGTACAT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+5,KUL28-T_AGCGTATTCCTAGTGA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+6,KUL28-T_AGCTCTCAGCGTTGCC,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+7,KUL28-T_AGTGTCATCAACACAC,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+8,KUL28-T_AGTTGGTAGCGCTCCA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+9,KUL28-T_AGTTGGTTCAATAAGG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+10,KUL28-T_ATCTGCCTCCCGACTT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS3,Epithelial cells
+11,KUL28-T_CACAGGCGTCTCTCTG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+12,KUL28-T_CAGATCAGTACAGTGG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+13,KUL28-T_CCATGTCTCTGTTGAG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+14,KUL28-T_CGAGAAGCACGTAAGG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+15,KUL28-T_CGGGTCATCGAACTGT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+16,KUL28-T_CGTCAGGTCCATGAGT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+17,KUL28-T_CTGAAGTAGATGTCGG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+18,KUL28-T_CTGCTGTCATTAACCG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+19,KUL28-T_CTGGTCTTCTAACTCT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+20,KUL28-T_GCTGGGTAGAAGGGTA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+21,KUL28-T_GGAACTTCAAGAGGCT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+22,KUL28-T_GGACAAGTCCACTCCA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+23,KUL28-T_GTAACGTCACATTCGA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+24,KUL28-T_GTCGGGTCACTTGGAT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+25,KUL28-T_TAGCCGGCAACCGCCA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+26,KUL28-T_TCACAAGAGAGGTTGC,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+27,KUL28-T_TGAAAGACATCCGTGG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+28,KUL28-T_TGACTAGCAGCCAATT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+29,KUL28-T_TGAGAGGTCATTCACT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+30,KUL28-T_TGAGCCGAGACAGGCT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+31,KUL28-T_TGATTTCCAAGCGATG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+32,KUL28-T_TGCCAAAGTAGGGACT,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+33,KUL28-T_TGGTTAGGTGATGTGG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+34,KUL28-T_TGTTCCGAGAAGGGTA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+35,KUL28-T_TTAACTCGTATATGAG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+36,KUL28-T_TTAGGCAAGACACTAA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+37,KUL28-T_TTCTCAACAGCTGCTG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+38,KUL28-T_TTGCCGTAGAGATGAG,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+39,KUL28-T_TTGCCGTTCAGGTAAA,KUL28,Tumor,KUL28-T,Epithelial cells,CMS2,Epithelial cells
+40,KUL28-T_AAATGCCTCCAAACAC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+41,KUL28-T_AACCGCGCAGGCTCAC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+42,KUL28-T_AACGTTGTCACCCGAG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+43,KUL28-T_AACTCAGAGGGCTCTC,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+44,KUL28-T_AACTCTTAGTGTTAGA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+45,KUL28-T_AAGACCTGTCCATGAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+46,KUL28-T_AAGACCTGTCGACTAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+47,KUL28-T_AAGCCGCGTGGTGTAG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+48,KUL28-T_AAGGCAGCAGGGCATA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+49,KUL28-T_AAGTCTGGTTCCATGA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+50,KUL28-T_AAGTCTGTCCTAGAAC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+51,KUL28-T_ACATCAGGTAAGGGCT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+52,KUL28-T_ACATCAGGTCTAGTGT,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+53,KUL28-T_ACCAGTATCTTATCTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+54,KUL28-T_ACCGTAAGTACCCAAT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+55,KUL28-T_ACGAGCCAGCTTCGCG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+56,KUL28-T_ACGCCGAGTGATAAGT,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+57,KUL28-T_ACGGGCTTCTTCCTTC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+58,KUL28-T_ACTATCTGTTCACGGC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+59,KUL28-T_ACTGCTCGTCAGCTAT,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+60,KUL28-T_ACTGCTCGTGTTTGTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+61,KUL28-T_ACTTTCAGTCAATACC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+62,KUL28-T_AGAATAGAGTGGGATC,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+63,KUL28-T_AGACGTTCAGCAGTTT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+64,KUL28-T_AGAGCGACAGGCTGAA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+65,KUL28-T_AGAGCTTCAGCGAACA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+66,KUL28-T_AGAGTGGGTCTAAACC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+67,KUL28-T_AGATCTGTCCACGCAG,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+68,KUL28-T_AGCAGCCCAGCAGTTT,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+69,KUL28-T_AGCAGCCGTCGGGTCT,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+70,KUL28-T_AGCGGTCAGAACAACT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+71,KUL28-T_AGCGTCGAGGTGGGTT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+72,KUL28-T_AGCTCTCTCACTTATC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+73,KUL28-T_AGCTTGATCAACACCA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+74,KUL28-T_AGGTCATCAGCGTCCA,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+75,KUL28-T_AGGTCATTCCCTTGTG,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+76,KUL28-T_AGGTCCGAGTACTTGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+77,KUL28-T_AGTAGTCAGTCGTTTG,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+78,KUL28-T_ATAACGCTCGTTTATC,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+79,KUL28-T_ATAAGAGTCTGTCTAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+80,KUL28-T_ATCACGAAGGAGTACC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+81,KUL28-T_ATCACGAGTGTAAGTA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+82,KUL28-T_ATCACGATCCAAACAC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+83,KUL28-T_ATCCACCGTGAAATCA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+84,KUL28-T_ATCCACCTCCTGCTTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+85,KUL28-T_ATCCGAAGTTCAACCA,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+86,KUL28-T_ATCTACTGTCAGATAA,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+87,KUL28-T_ATCTGCCTCACAGGCC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+88,KUL28-T_ATGGGAGTCAGGCAAG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+89,KUL28-T_ATTATCCGTGGACGAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+90,KUL28-T_CAACCAAGTACCAGTT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+91,KUL28-T_CAACTAGTCCCGACTT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+92,KUL28-T_CAAGATCGTAGCGTGA,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+93,KUL28-T_CAAGTTGCATACAGCT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+94,KUL28-T_CACAGTAGTAGATTAG,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+95,KUL28-T_CACATTTCACGGACAA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+96,KUL28-T_CACATTTTCGGAAACG,KUL28,Tumor,KUL28-T,Stromal cells,Smooth muscle cells,Stromal cells
+97,KUL28-T_CACCACTCAGCGTAAG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+98,KUL28-T_CACCAGGTCATCTGTT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+99,KUL28-T_CACTCCAAGATGCCTT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+100,KUL28-T_CACTCCACAAGACGTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+101,KUL28-T_CAGAATCTCTGCTTGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+102,KUL28-T_CAGAGAGCACGCGAAA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+103,KUL28-T_CAGCATAAGACGACGT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+104,KUL28-T_CAGCCGAAGCCACTAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+105,KUL28-T_CAGCCGAGTTTGTGTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+106,KUL28-T_CAGCTAACACGGTAGA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+107,KUL28-T_CAGGTGCGTTTAGCTG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+108,KUL28-T_CAGTAACGTAGCTCCG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+109,KUL28-T_CATATGGTCTACTTAC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+110,KUL28-T_CATATTCAGCCACTAT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+111,KUL28-T_CATCAAGAGCGAGAAA,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+112,KUL28-T_CATCAGAAGATCCCAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+113,KUL28-T_CATCAGAGTTCAGACT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+114,KUL28-T_CATCGGGTCAACGCTA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+115,KUL28-T_CATGACATCACGACTA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+116,KUL28-T_CATGACATCATCTGTT,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+117,KUL28-T_CATGGCGAGCAGACTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+118,KUL28-T_CCACTACGTCATCGGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+119,KUL28-T_CCCATACCATGTAGTC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+120,KUL28-T_CCGGTAGTCGGAGCAA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+121,KUL28-T_CCTACACTCGTTTAGG,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+122,KUL28-T_CCTAGCTCACTATCTT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+123,KUL28-T_CCTAGCTTCCGCAAGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+124,KUL28-T_CCTATTAGTCGAATCT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+125,KUL28-T_CCTCAGTAGACTTGAA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+126,KUL28-T_CCTTCCCAGCGATCCC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+127,KUL28-T_CCTTCCCAGTGGGTTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+128,KUL28-T_CGATCGGCATATGCTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+129,KUL28-T_CGATCGGTCAGCGATT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+130,KUL28-T_CGATGGCTCTGAGGGA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+131,KUL28-T_CGATGTATCCACGTGG,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+132,KUL28-T_CGCCAAGAGATGGCGT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+133,KUL28-T_CGCGGTATCTTGTATC,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+134,KUL28-T_CGCTGGACAGGCTGAA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+135,KUL28-T_CGCTGGAGTTCCACGG,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+136,KUL28-T_CGCTTCAGTTCGCTAA,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+137,KUL28-T_CGGACACCACTAAGTC,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+138,KUL28-T_CGGACACGTCTCTCGT,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+139,KUL28-T_CGGACACTCTAGAGTC,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+140,KUL28-T_CGGACGTGTTGAGGTG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+141,KUL28-T_CGGAGTCAGCACGCCT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+142,KUL28-T_CGTAGCGAGTGTCTCA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+143,KUL28-T_CGTAGGCCACGGCGTT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+144,KUL28-T_CGTAGGCCATTGGGCC,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+145,KUL28-T_CGTCTACGTAGCTTGT,KUL28,Tumor,KUL28-T,Stromal cells,Smooth muscle cells,Stromal cells
+146,KUL28-T_CGTGAGCCAGGGTATG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+147,KUL28-T_CGTGAGCGTCTGCAAT,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+148,KUL28-T_CGTGTAACACCTCGTT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+149,KUL28-T_CGTGTAATCTCCAGGG,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+150,KUL28-T_CTAATGGAGCGTTCCG,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+151,KUL28-T_CTAATGGCATGGAATA,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+152,KUL28-T_CTACATTTCTGGTTCC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+153,KUL28-T_CTACGTCGTAGGCTGA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+154,KUL28-T_CTAGTGACACGACTCG,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+155,KUL28-T_CTAGTGATCACTTCAT,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+156,KUL28-T_CTCAGAAGTGATGTGG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+157,KUL28-T_CTCATTACAACACGCC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+158,KUL28-T_CTCATTATCGCCTGAG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+159,KUL28-T_CTCCTAGCATCCGCGA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+160,KUL28-T_CTCGGGACACGACTCG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+161,KUL28-T_CTCGGGACATACCATG,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+162,KUL28-T_CTCGTACCAGCATGAG,KUL28,Tumor,KUL28-T,Stromal cells,Smooth muscle cells,Stromal cells
+163,KUL28-T_CTCGTACTCGCCCTTA,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+164,KUL28-T_CTCTAATAGCGATAGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+165,KUL28-T_CTCTAATGTAAGTGTA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+166,KUL28-T_CTCTACGAGGGTTCCC,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+167,KUL28-T_CTGATAGCAGACTCGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+168,KUL28-T_CTGATAGTCACGCGGT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+169,KUL28-T_CTGATCCGTACGACCC,KUL28,Tumor,KUL28-T,Stromal cells,Smooth muscle cells,Stromal cells
+170,KUL28-T_CTGTTTACAACTTGAC,KUL28,Tumor,KUL28-T,Stromal cells,Smooth muscle cells,Stromal cells
+171,KUL28-T_CTGTTTACACACAGAG,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+172,KUL28-T_CTGTTTAGTACAGTTC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+173,KUL28-T_CTTAACTGTCCGAACC,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+174,KUL28-T_CTTAACTGTGCTGTAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+175,KUL28-T_CTTCTCTTCAGTGTTG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+176,KUL28-T_GAAACTCGTTCCCGAG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+177,KUL28-T_GAACGGAGTACCGTAT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+178,KUL28-T_GAATAAGAGGGTATCG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+179,KUL28-T_GACACGCAGCTCCTCT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+180,KUL28-T_GACCAATAGGAATCGC,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+181,KUL28-T_GACGGCTCAATGACCT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+182,KUL28-T_GACGTGCAGGGATCTG,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+183,KUL28-T_GACTACACACTTGGAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+184,KUL28-T_GAGGTGACACCACCAG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+185,KUL28-T_GAGGTGAGTTGGAGGT,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+186,KUL28-T_GAGGTGATCTGTTTGT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+187,KUL28-T_GATCGATTCGCATGGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+188,KUL28-T_GATCGTACATTGAGCT,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+189,KUL28-T_GATCGTAGTGGTACAG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+190,KUL28-T_GATGAGGGTTCGTCTC,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+191,KUL28-T_GATGCTAGTTGGACCC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+192,KUL28-T_GATTCAGCAAATTGCC,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+193,KUL28-T_GCACATAAGCTGAACG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+194,KUL28-T_GCACTCTCAGTGGAGT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+195,KUL28-T_GCAGCCATCACGAAGG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+196,KUL28-T_GCATACACAGACGCTC,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+197,KUL28-T_GCATGCGCAACGATCT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+198,KUL28-T_GCGCAGTCAGCTCCGA,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+199,KUL28-T_GCGGGTTGTGAGGGTT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+200,KUL28-T_GCTCTGTGTAGAAAGG,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+201,KUL28-T_GCTGCGAGTCCGAACC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+202,KUL28-T_GCTGCGAGTTAAGGGC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+203,KUL28-T_GCTTGAATCTTCAACT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+204,KUL28-T_GGAAAGCTCGGCTACG,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+205,KUL28-T_GGAATAACACCGTTGG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+206,KUL28-T_GGAATAACATCCGGGT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+207,KUL28-T_GGAATAATCCCATTTA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+208,KUL28-T_GGACAAGTCGGAATCT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+209,KUL28-T_GGACAGAGTTGAACTC,KUL28,Tumor,KUL28-T,Stromal cells,Smooth muscle cells,Stromal cells
+210,KUL28-T_GGACATTGTAATAGCA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+211,KUL28-T_GGATGTTGTATTCGTG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+212,KUL28-T_GGATGTTGTCTGCCAG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+213,KUL28-T_GGCCGATGTGCATCTA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+214,KUL28-T_GGCTCGAAGAATCTCC,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+215,KUL28-T_GGCTCGAAGTGACATA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+216,KUL28-T_GGGAATGTCAGGCGAA,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+217,KUL28-T_GGGACCTAGTCGCCGT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+218,KUL28-T_GGGACCTGTCTGGAGA,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+219,KUL28-T_GGGCATCTCAGTTGAC,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 1,Stromal cells
+220,KUL28-T_GTACGTAAGACGACGT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+221,KUL28-T_GTAGGCCGTAGTACCT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+222,KUL28-T_GTAGGCCTCAGCTGGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+223,KUL28-T_GTAGGCCTCGCGTTTC,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+224,KUL28-T_GTCACGGCATGGTTGT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+225,KUL28-T_GTCATTTAGCTTCGCG,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+226,KUL28-T_GTCATTTGTACCGTAT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+227,KUL28-T_GTCGTAAAGTATGACA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+228,KUL28-T_GTCTTCGTCAGCACAT,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+229,KUL28-T_GTGAAGGGTGTTCGAT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+230,KUL28-T_GTGCATACATTAACCG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+231,KUL28-T_GTGCGGTCAGTATCTG,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+232,KUL28-T_TAAGAGAGTAAAGGAG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+233,KUL28-T_TACCTATCAGACGTAG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+234,KUL28-T_TACCTTATCGTAGGAG,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+235,KUL28-T_TACTCATCAATCCAAC,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+236,KUL28-T_TACTCGCGTCATGCAT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+237,KUL28-T_TAGCCGGAGCTGCAAG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+238,KUL28-T_TATCAGGAGTTTCCTT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+239,KUL28-T_TATGCCCGTTATGCGT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+240,KUL28-T_TATTACCAGAGCTTCT,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+241,KUL28-T_TCAATCTAGCAGACTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+242,KUL28-T_TCAATCTTCTCCTATA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+243,KUL28-T_TCACAAGAGAGCTATA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+244,KUL28-T_TCAGCAAAGGGCACTA,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+245,KUL28-T_TCAGCAACATTAACCG,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+246,KUL28-T_TCAGCAATCAGAGACG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+247,KUL28-T_TCAGCTCTCATCGCTC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+248,KUL28-T_TCAGGATGTCCAGTGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+249,KUL28-T_TCATTACAGGTGATTA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+250,KUL28-T_TCCACACAGTCGTTTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+251,KUL28-T_TCCCGATGTAGATTAG,KUL28,Tumor,KUL28-T,Stromal cells,Lymphatic ECs,Stromal cells
+252,KUL28-T_TCGCGTTAGAGGACGG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+253,KUL28-T_TCGGGACCATGGTTGT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+254,KUL28-T_TCGGGACTCACCTTAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+255,KUL28-T_TCGGTAAGTCACACGC,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+256,KUL28-T_TCGTACCCAGACGTAG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+257,KUL28-T_TGACAACTCACTCCTG,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+258,KUL28-T_TGACGGCCATGTAAGA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+259,KUL28-T_TGAGCATAGCTTTGGT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+260,KUL28-T_TGAGCATAGTACGCGA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+261,KUL28-T_TGATTTCTCTGGCGAC,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+262,KUL28-T_TGCGTGGGTAAATGAC,KUL28,Tumor,KUL28-T,Stromal cells,Smooth muscle cells,Stromal cells
+263,KUL28-T_TGCTACCCACCTGGTG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+264,KUL28-T_TGCTGCTCATCTACGA,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+265,KUL28-T_TGCTGCTCATGCAATC,KUL28,Tumor,KUL28-T,Stromal cells,Smooth muscle cells,Stromal cells
+266,KUL28-T_TGGGAAGGTGAAATCA,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+267,KUL28-T_TGGGCGTGTCGTTGTA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+268,KUL28-T_TGGTTAGCATATACCG,KUL28,Tumor,KUL28-T,Stromal cells,Myofibroblasts,Stromal cells
+269,KUL28-T_TGTATTCTCCTTGCCA,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+270,KUL28-T_TGTCCCACAAGCTGGA,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+271,KUL28-T_TGTGGTAGTTACGCGC,KUL28,Tumor,KUL28-T,Stromal cells,Enteric glial cells,Stromal cells
+272,KUL28-T_TGTGTTTTCGGGAGTA,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+273,KUL28-T_TGTTCCGTCGTGACAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+274,KUL28-T_TGTTCCGTCGTTGCCT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+275,KUL28-T_TTAACTCAGACGACGT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+276,KUL28-T_TTAGGCACACATCCGG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+277,KUL28-T_TTAGGCACATCACCCT,KUL28,Tumor,KUL28-T,Stromal cells,Pericytes,Stromal cells
+278,KUL28-T_TTCTCCTTCAGAAATG,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+279,KUL28-T_TTCTTAGTCAGTGTTG,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+280,KUL28-T_TTGAACGAGATCCCAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+281,KUL28-T_TTGAACGTCACTGGGC,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+282,KUL28-T_TTGCCGTCAGCGTTCG,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+283,KUL28-T_TTGTAGGCAAGCCATT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+284,KUL28-T_TTGTAGGCAGTGGGAT,KUL28,Tumor,KUL28-T,Stromal cells,Stalk-like ECs,Stromal cells
+285,KUL28-T_TTTATGCCACATTTCT,KUL28,Tumor,KUL28-T,Stromal cells,Stromal 3,Stromal cells
+286,KUL28-T_TTTCCTCAGCTTATCG,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+287,KUL28-T_TTTCCTCAGGTGTGGT,KUL28,Tumor,KUL28-T,Stromal cells,Tip-like ECs,Stromal cells
+288,KUL28-T_AAGGAGCAGGTGCAAC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+289,KUL28-T_ACGTCAACACCCAGTG,KUL28,Tumor,KUL28-T,Myeloids,Unknown,Myeloids
+290,KUL28-T_ACTTACTAGCGGCTTC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+291,KUL28-T_ACTTACTCAATGAAAC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+292,KUL28-T_AGAGCTTAGACTTGAA,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+293,KUL28-T_AGCCTAAGTCCTCTTG,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+294,KUL28-T_AGGCCGTGTGTGTGCC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+295,KUL28-T_AGTGAGGGTCTCAACA,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+296,KUL28-T_AGTGTCATCAACTCTT,KUL28,Tumor,KUL28-T,Myeloids,Proliferating,Myeloids
+297,KUL28-T_AGTTGGTGTCTCTCGT,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+298,KUL28-T_ATAAGAGCATATGCTG,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+299,KUL28-T_ATAGACCTCACGACTA,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+300,KUL28-T_ATCCACCGTGACCAAG,KUL28,Tumor,KUL28-T,Myeloids,Unknown,Myeloids
+301,KUL28-T_ATCTGCCGTCAGAGGT,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+302,KUL28-T_ATTCTACTCTTAACCT,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+303,KUL28-T_CACATAGTCGAATGGG,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+304,KUL28-T_CACCACTTCGATGAGG,KUL28,Tumor,KUL28-T,Myeloids,Proliferating,Myeloids
+305,KUL28-T_CAGAATCCAATGAATG,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+306,KUL28-T_CAGAATCGTACATCCA,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+307,KUL28-T_CAGATCACATCCGTGG,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+308,KUL28-T_CAGCGACCACCCTATC,KUL28,Tumor,KUL28-T,Myeloids,cDC,Myeloids
+309,KUL28-T_CAGGTGCAGCGTTCCG,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+310,KUL28-T_CAGTCCTAGCACCGCT,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+311,KUL28-T_CATATTCGTTTCCACC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+312,KUL28-T_CCATTCGGTAGGCATG,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+313,KUL28-T_CCTACACGTGCAGGTA,KUL28,Tumor,KUL28-T,Myeloids,Unknown,Myeloids
+314,KUL28-T_CCTCAGTAGCTATGCT,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+315,KUL28-T_CCTCAGTAGTGTACCT,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+316,KUL28-T_CGATGTACATCCAACA,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+317,KUL28-T_CGCGGTAGTCACCTAA,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+318,KUL28-T_CGGTTAACACCACCAG,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+319,KUL28-T_CGTTAGACATGAAGTA,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+320,KUL28-T_CTACACCAGCTAGTTC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+321,KUL28-T_CTGCGGATCAAGAAGT,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+322,KUL28-T_CTGGTCTTCACAAACC,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+323,KUL28-T_CTTAACTGTGTCGCTG,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+324,KUL28-T_CTTACCGCATTAGCCA,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+325,KUL28-T_GAAACTCGTAAACACA,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+326,KUL28-T_GAACATCCAACTGGCC,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+327,KUL28-T_GAATAAGAGAGAGCTC,KUL28,Tumor,KUL28-T,Myeloids,Unknown,Myeloids
+328,KUL28-T_GAGCAGAGTATAATGG,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+329,KUL28-T_GAGGTGAAGCTGTCTA,KUL28,Tumor,KUL28-T,Myeloids,Unknown,Myeloids
+330,KUL28-T_GATCAGTAGGCTCTTA,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+331,KUL28-T_GATGAGGTCGAATGGG,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+332,KUL28-T_GATTCAGCAAGGGTCA,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+333,KUL28-T_GCAAACTCAAACAACA,KUL28,Tumor,KUL28-T,Myeloids,cDC,Myeloids
+334,KUL28-T_GCTGGGTCAGCATACT,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+335,KUL28-T_GGAATAAAGTGTCCCG,KUL28,Tumor,KUL28-T,Myeloids,cDC,Myeloids
+336,KUL28-T_GGAATAATCCGGGTGT,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+337,KUL28-T_GGCCGATCATGCCTTC,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+338,KUL28-T_GTACTTTGTTTCCACC,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+339,KUL28-T_GTCACAACATGTTCCC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+A,Myeloids
+340,KUL28-T_GTCTCGTCAAGTCTAC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+341,KUL28-T_TAGTTGGTCTTAACCT,KUL28,Tumor,KUL28-T,Myeloids,Anti-inflammatory,Myeloids
+342,KUL28-T_TCAGATGAGGCGACAT,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+343,KUL28-T_TCGTAGATCCTCTAGC,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+344,KUL28-T_TTAGTTCGTGTTTGGT,KUL28,Tumor,KUL28-T,Myeloids,Proliferating,Myeloids
+345,KUL28-T_TTGGAACGTTACGTCA,KUL28,Tumor,KUL28-T,Myeloids,Pro-inflammatory,Myeloids
+346,KUL28-T_TTGTAGGTCATGCAAC,KUL28,Tumor,KUL28-T,Myeloids,SPP1+B,Myeloids
+347,KUL28-T_AAACCTGTCAGCAACT,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+348,KUL28-T_AACTGGTCAGCCTTTC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+349,KUL28-T_AATCCAGAGTGGGCTA,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+350,KUL28-T_AATCCAGGTTTGGCGC,KUL28,Tumor,KUL28-T,T cells,CD8+ T cells,T cells
+351,KUL28-T_ACCCACTTCCGCTGTT,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+352,KUL28-T_ACGGCCACACGGTTTA,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+353,KUL28-T_ACTGAACCATGGTCAT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+354,KUL28-T_ACTGAACGTTTCGCTC,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+355,KUL28-T_ACTTACTTCCACTGGG,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+356,KUL28-T_ACTTGTTAGACGACGT,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+357,KUL28-T_ACTTGTTAGTTCGATC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+358,KUL28-T_AGACGTTAGGATGGAA,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+359,KUL28-T_AGAGCGAGTGATGTGG,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+360,KUL28-T_AGCCTAAGTCATATGC,KUL28,Tumor,KUL28-T,T cells,CD8+ T cells,T cells
+361,KUL28-T_AGCGTCGTCACAGGCC,KUL28,Tumor,KUL28-T,T cells,NK cells,T cells
+362,KUL28-T_AGGTCATCACACATGT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+363,KUL28-T_AGGTCATCAGCGAACA,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+364,KUL28-T_AGGTCCGCAACACCTA,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+365,KUL28-T_AGTAGTCCAAGTAATG,KUL28,Tumor,KUL28-T,T cells,CD8+ T cells,T cells
+366,KUL28-T_ATCCACCCACGGACAA,KUL28,Tumor,KUL28-T,T cells,NK cells,T cells
+367,KUL28-T_ATTGGTGTCGCTTGTC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+368,KUL28-T_CACAAACAGACTAAGT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+369,KUL28-T_CACATTTAGGCTCTTA,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+370,KUL28-T_CACCTTGTCCAAACAC,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+371,KUL28-T_CAGCCGACATCTCCCA,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+372,KUL28-T_CAGCCGATCCTCATTA,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+373,KUL28-T_CAGCTAACATGACGGA,KUL28,Tumor,KUL28-T,T cells,NK cells,T cells
+374,KUL28-T_CAGTAACTCAGCCTAA,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+375,KUL28-T_CAGTCCTTCTTAACCT,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+376,KUL28-T_CCACGGAAGCGCCTCA,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+377,KUL28-T_CCACTACTCCGTTGTC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+378,KUL28-T_CCACTACTCGTCCGTT,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+379,KUL28-T_CCGTACTCACATGGGA,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+380,KUL28-T_CGATGTAAGGTGCAAC,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+381,KUL28-T_CGGAGCTGTTCGTCTC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+382,KUL28-T_CGTAGGCGTCGAATCT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+383,KUL28-T_CGTTAGATCGCATGAT,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+384,KUL28-T_CTAATGGCATGTAAGA,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+385,KUL28-T_CTAATGGGTTGGTTTG,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+386,KUL28-T_CTACGTCGTCCCGACA,KUL28,Tumor,KUL28-T,T cells,CD8+ T cells,T cells
+387,KUL28-T_CTGCGGAGTCAATACC,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+388,KUL28-T_GAACCTAAGGGTATCG,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+389,KUL28-T_GATCGTAGTCTAAACC,KUL28,Tumor,KUL28-T,T cells,CD8+ T cells,T cells
+390,KUL28-T_GCATGTATCCAAAGTC,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+391,KUL28-T_GGATGTTCAATACGCT,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+392,KUL28-T_GGATGTTTCTGACCTC,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+393,KUL28-T_GGCCGATCAGATCTGT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+394,KUL28-T_GGCGTGTAGTTGAGAT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+395,KUL28-T_GGGACCTAGTACATGA,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+396,KUL28-T_GGTGCGTCAGTACACT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+397,KUL28-T_GGTGTTATCACTTCAT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+398,KUL28-T_GTACTCCGTGACAAAT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+399,KUL28-T_GTGGGTCGTCTTTCAT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+400,KUL28-T_GTGTGCGAGCGATAGC,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+401,KUL28-T_GTTTCTAGTTATTCTC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+402,KUL28-T_TACGGGCGTCAACTGT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+403,KUL28-T_TACTTGTGTTCGGGCT,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+404,KUL28-T_TAGCCGGCATACTACG,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+405,KUL28-T_TAGTTGGGTATAAACG,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+406,KUL28-T_TCAACGAGTGCACGAA,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+407,KUL28-T_TCTCATAGTTCGGCAC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+408,KUL28-T_TCTGGAAAGGAACTGC,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+409,KUL28-T_TGCGGGTCAGCCTATA,KUL28,Tumor,KUL28-T,T cells,CD4+ T cells,T cells
+410,KUL28-T_TGCTACCCATTCCTCG,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+411,KUL28-T_TGTTCCGGTTCACGGC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+412,KUL28-T_TTAGGCAGTTCGGGCT,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+413,KUL28-T_TTGTAGGCAGTCGTGC,KUL28,Tumor,KUL28-T,T cells,Regulatory T cells,T cells
+414,KUL28-T_CTACCCACATTCGACA,KUL28,Tumor,KUL28-T,B cells,CD19+CD20+ B,B cells
+415,KUL28-T_GGACATTGTGCAGTAG,KUL28,Tumor,KUL28-T,B cells,CD19+CD20+ B,B cells
+416,KUL28-T_TCAGATGTCGGAAACG,KUL28,Tumor,KUL28-T,B cells,Unknown,B cells
+417,KUL28-T_TCGTAGACACGACTCG,KUL28,Tumor,KUL28-T,B cells,CD19+CD20+ B,B cells
+418,KUL28-T_ATAACGCGTCACAAGG,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+419,KUL28-T_CCCATACGTCAGATAA,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+420,KUL28-T_CCGTACTGTATAATGG,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+421,KUL28-T_CTGTTTATCCTTTACA,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+422,KUL28-T_GAGTCCGCAGTCTTCC,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+423,KUL28-T_GATCAGTCACGCGAAA,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+424,KUL28-T_GGACAAGTCTTAGCCC,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+425,KUL28-T_GGATTACAGAAACCAT,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+426,KUL28-T_TCATTTGGTTGTCTTT,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
+427,KUL28-T_TCCACACAGTCATGCT,KUL28,Tumor,KUL28-T,Mast cells,Mast cells,Mast cells
